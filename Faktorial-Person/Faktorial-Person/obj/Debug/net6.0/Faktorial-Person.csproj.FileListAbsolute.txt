@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\bin\Debug\net6.0\Faktorial-Person.exe
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\bin\Debug\net6.0\Faktorial-Person.deps.json
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\bin\Debug\net6.0\Faktorial-Person.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\bin\Debug\net6.0\Faktorial-Person.dll
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\bin\Debug\net6.0\Faktorial-Person.pdb
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.dll
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\refint\Faktorial-Person.dll
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.pdb
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\Faktorial-Person.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Faktorial-Person\Faktorial-Person\obj\Debug\net6.0\ref\Faktorial-Person.dll
